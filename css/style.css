@@ -29,6 +29,10 @@ body {
 
 .line {
     height: 4px;          
-  background-color: #C3C3FF; 
-  border: none;          
+    background-color: #C3C3FF; 
+    border: none;         
+}
+
+.small {
+    padding-left: 30px;
 }
