@@ -15,8 +15,10 @@ body {
     padding-right: 50px;
 }
 
+/*just for spacing between content and bottom of screen*/
 main {
     width: 800px;
+    padding-bottom: 60px;
 }
 
 .line {
@@ -29,9 +31,9 @@ main {
     padding-left: 30px;
 }
 
-/*just for spacing between content and bottom of screen*/
-main {
-    padding-bottom: 60px;
+a {
+    text-decoration: none;
+    color: #1d1b1b;
 }
 
 .card {
