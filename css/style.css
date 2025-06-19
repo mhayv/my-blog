@@ -10,7 +10,7 @@ body {
     margin: 0;
     color: #1d1b1b;
     font-family: "ff-real-headline-pro", sans-serif;
-    background: #f6dcde;
+    background: #eadcf6;
     padding-left: 50px;
     padding-right: 50px;
     align-content: center;
@@ -23,7 +23,7 @@ main {
 }
 
 .centered {
-    background-color: #b18bef;    
+    background-color: #9576dd;    
     color: #1d1b1b;               
     padding: 1rem 2rem;       
     text-align: center;       
@@ -41,12 +41,12 @@ main {
   display: inline-block; 
   margin: 0 0.5rem;       
   text-decoration: none;
-  color: #7d4187;
-}
+  color: #a487e6;  
+}  
 
 #week-nav a.active {
   font-weight: bold;
-  color: #b18bef;
+  color: #8c66e6;  
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ a {
     border-radius: 10px;
     font-family: "ff-real-headline-pro", sans-serif;
     border: 4px solid;
-    border-color: #7d4187;
+    border-color: #9576dd;    
     color: #1d1b1b;
     margin-bottom: 1rem;
 }
@@ -92,23 +92,9 @@ a {
 }
 
 .card:hover {
-     background-color: rgb(255, 225, 225);
+     background-color: #b296f3;    
 }
 
 .done {
-    background-color: rgb(247, 142, 159);
-}
-
-.homebutton {
-     border: 4px solid;
-    background-color: #d1aad8;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    height: 20px;
-    width: 160px;
-    font-size: 1rem;
-    border-radius: 215px;
-    margin-top: 50px;
+    background-color: rgb(204, 176, 243);
 }
